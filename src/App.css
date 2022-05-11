@@ -1,0 +1,14 @@
+.active{
+    color: #033cf5;
+}
+.circle{
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #f3f1f1;
+    position: absolute;
+    right: 348px;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+}
